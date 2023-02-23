@@ -1,6 +1,5 @@
 blips = {}
--- GetEntitySpeed
--- SetEntityMaxSpeed
+
 Alert = {}
 vRP = Proxy.getInterface("vRP")
 vRPserver = Tunnel.getInterface("vRP","vRP")
