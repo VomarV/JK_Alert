@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Permission = 'police.pc'             -- [[ صلاحية تخطي تبطي الاستنفار الامني ]] 
+Config.Permission = 'police.pc' 
 
 Config.SpeedCar = 50
 
